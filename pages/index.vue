@@ -6,7 +6,7 @@
 			</b-col>
 
 			<b-col sm='12'>
-				<p class='lead text-center text-md-left'>
+				<p class='lead text-center text-lg-left'>
 					Analisamos notícias para você
 				</p>
 			</b-col>

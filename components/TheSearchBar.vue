@@ -37,10 +37,4 @@ export default {
 }
 </script>
 
-<style lang="scss">
-@include media-breakpoint-up(md) {
-	.search-bar {
-		width: 70vw;
-	}
-}
-</style>
+<style lang="scss"></style>
