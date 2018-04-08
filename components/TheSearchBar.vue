@@ -1,5 +1,5 @@
 <template>
-  <b-row class='search-bar'>
+  <b-row class='w-100'>
 		<b-col sm='12'>
 			<b-form-input class='search-bar'
 										v-model="query"
@@ -38,14 +38,6 @@ export default {
 </script>
 
 <style lang="scss">
-.search-bar {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-
-  width: 100vw;
-}
-
 @include media-breakpoint-up(md) {
 	.search-bar {
 		width: 70vw;

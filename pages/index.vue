@@ -41,7 +41,7 @@ export default {
   display: flex;
   flex-direction: column;
   justify-content: center;
-	align-items: left;
+	align-items: center;
 
   height: 100vh;
 }

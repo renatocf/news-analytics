@@ -1,6 +1,5 @@
 <template>
-  <b-row>
-
+  <b-row class='w-100'>
 		<b-col sm='12' class='pt-3'>
 			<hr/>
 			<h2>Score total: {{ score }}</h2>
