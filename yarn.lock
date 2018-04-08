@@ -78,6 +78,10 @@
     lodash "^4.2.0"
     to-fast-properties "^2.0.0"
 
+"@coreui/vue@1.0.10":
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/@coreui/vue/-/vue-1.0.10.tgz#cacdc347e8b25c9f06d16c0a7e1969fc41ed750d"
+
 "@nuxtjs/axios@^5.0.0":
   version "5.3.1"
   resolved "https://registry.yarnpkg.com/@nuxtjs/axios/-/axios-5.3.1.tgz#9f9e6c817dae44c16955af659f6d5ac2a8085148"
