@@ -1,0 +1,16 @@
+$na-yellow: #FFE000;
+$na-black: #292827;
+
+$theme-colors: (
+	"primary": $na-yellow,
+	"success": $na-yellow,
+	"dark": $na-black
+);
+
+// $font-family-base: Montserrat, "IBM Plex Sans Condensed";
+
+@font-face {
+	font-family: Montserrat;
+	font-weight: normal;
+	src: url("/Montserrat-Regular.otf");
+}
